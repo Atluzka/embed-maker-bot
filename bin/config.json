@@ -1,0 +1,10 @@
+{
+    "token": "PUT YOUR BOT TOKEN HERE",
+    "guild-id": "PUT THE ID OF YOUR SERVER HERE",
+
+    "admins": [
+        123456789
+    ],
+
+    "default-embed-color": 16777215
+}
